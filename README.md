@@ -1,9 +1,9 @@
 # Work_Sample_Project
 
-##Description
+## Description
 Project is to find the Nearest Neighbour to a bunch of location data. Code can be run in Spark (implemented using pyspark).
 
-##Assumptions
+## Assumptions
 - The distance between the points can be approximated using Haversine distance formula
 
 - The best method to divide the POI is using K-D Tree, assumption is that a K-D Tree structure will be maintained before hand
