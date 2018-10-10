@@ -15,11 +15,6 @@ project is to find the Nearest Neighbour to a bunch of location data. Code can b
 - The POI density distribution can be explained using Z-Score
 
 ### pyspark code
-
-# coding: utf-8
-
-# In[148]:
-
 #Libraries and Functions
 import math
 from pyspark import SparkConf, SparkContext
