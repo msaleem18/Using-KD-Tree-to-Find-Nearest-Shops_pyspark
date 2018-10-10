@@ -15,6 +15,7 @@ project is to find the Nearest Neighbour to a bunch of location data. Code can b
 - The POI density distribution can be explained using Z-Score
 
 ### pyspark code
+```python
 #Libraries and Functions
 
 import math
@@ -168,5 +169,5 @@ print(df_poi_summary.show())
 
 #ans = z_score_scaled(df_poi_summary['density'])
 #print('\n\nz score scaled: %s'%(ans))
-
+```python
 
